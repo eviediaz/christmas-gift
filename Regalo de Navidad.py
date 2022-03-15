@@ -5,7 +5,7 @@ from PIL import ImageTk, Image
 from tkinter.font import Font
 root = Tk()
 root.geometry("400x700")
-root.title("Sagasti")
+root.title("Regalo de Navidad")
 
 root.iconbitmap('SantaClaus.ico')
 
